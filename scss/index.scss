@@ -1,0 +1,9 @@
+@import "./color.scss";
+// Layouts Basic
+@import "../layouts/basiclayout/BasicLayout.scss";
+
+//Components
+@import "../components/Header/Header.scss";
+@import "../components/Header/TopBar/TopBar.scss";
+@import "../components/Header/MenuWeb/MenuWeb.scss";
+@import "../components/Modal/BasicModal/BasicModal.scss";
